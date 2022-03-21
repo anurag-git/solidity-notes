@@ -12,8 +12,8 @@ contract A {
   function baz() internal {
       str = "baz";
   }
-    function bax() private {
-      str = "bax";
+  function bax() private {
+    str = "bax";
   }
 }
 ```
