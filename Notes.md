@@ -17,3 +17,4 @@ contract A {
   }
 }
 ```
+**Answer**: Only "foo" and "bar", "baz" is internal function only visible in this contract and derived contracts. "bax" is only visible inside this contract
